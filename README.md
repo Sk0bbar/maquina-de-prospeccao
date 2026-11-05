@@ -1,6 +1,6 @@
 # Máquina de Prospecção
 
-**Prospecção B2B com IA para agências.** A Máquina encontra empresas do perfil certo em fontes públicas, qualifica cada uma com um score objetivo e abre a conversa por e-mail numa sequência curta e respeitosa. Quando a empresa responde, a conversa passa para o comercial humano. Ela abre a porta; quem conduz e fecha a venda é o comercial.
+**Prospecção B2B com IA para agências.** A Máquina encontra empresas do perfil certo em fontes públicas, qualifica cada uma com um score objetivo e abre a conversa pelo canal mais adequado para cada empresa, com uma abordagem curta, personalizada e respeitosa. Quando a empresa responde, a conversa passa para o comercial humano. Ela abre a porta; quem conduz e fecha a venda é o comercial.
 
 Desenvolvida para a agência **Roteirizow** (Fortaleza/CE). A demanda surgiu depois que a agência perdeu 4 clientes numa mesma semana e percebeu que o comercial dependia só de indicação.
 
