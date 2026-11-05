@@ -1,0 +1,13 @@
+{
+  "name": "maquina-de-prospeccao",
+  "version": "1.0.0",
+  "description": "Prospecção B2B com IA para agências: busca em fontes públicas, qualificação por score, sequência de e-mails com aquecimento e passagem da conversa para o comercial.",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "Pablo Vidal",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "simular": "node -e \"const {simular}=require('./src/aquecimento');console.table(simular(8))\""
+  }
+}
